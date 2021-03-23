@@ -1,6 +1,9 @@
-# Hand Tracking
+# Tracking a Hand
 
 ## Introduction
+
+The goal of this project is to track a hand in the space. The software must be capable of differentiating
+left had from the right hand, how many fingers moved and what is the rotation of the hand.
 
 ## Articles
 
